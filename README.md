@@ -17,6 +17,11 @@ A tela de login é o ponto de entrada para o Sistema de Hotel, proporcionando ac
 
 <img src="https://github.com/layla-lima/SistemaHotel/assets/129623575/62d5dfd6-a3b6-467e-b4e8-a6f80bad25eb" alt="Tela de Login" width="400"/>
 
+## Tela Principal
+
+
+<img width="960" alt="ImagemSistemaHotel" src="https://github.com/LaysaSilva/SistemaHotel/assets/141364310/6f7c6f4d-7960-4f25-98b5-b6e04c65f3a0">
+
 
 ## Configuração do Ambiente
 
